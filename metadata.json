@@ -1,0 +1,6 @@
+{
+  "name": "Lineage Family Tree",
+  "description": "An interactive, elegant family tree built with React and D3, adapted from a handwritten generational tree.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
